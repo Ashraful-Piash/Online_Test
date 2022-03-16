@@ -1,2 +1,2 @@
 # Online_Test
- This is a simple program to check MCQ test
+ This is a Java based program to check MCQ test
